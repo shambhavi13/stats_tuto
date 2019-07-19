@@ -1,0 +1,8 @@
+*.swp
+.ipynb_checkpoints
+__pycache__
+
+Pipfile.lock
+
+Untitled *
+.DS_Store
